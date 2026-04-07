@@ -8,16 +8,20 @@ This project presents an interactive Sales Data Dashboard built using Microsoft 
 The dashboard provides a comprehensive view of sales metrics such as revenue, profit, customer segmentation, and product performance.
 
 ~ Objectives
+
 Analyze overall sales performance
 Identify top-performing products and regions
 Track profit trends and revenue growth
 Understand customer purchasing behavior
 Enable data-driven decision-making
+
 ~ Tools & Technologies
+
 Power BI Desktop (.pbix)
 Data Modeling
 DAX (Data Analysis Expressions)
 Data Visualization
+
 ~ Dataset Description
 
 The dataset used in this project includes:
@@ -29,27 +33,37 @@ Regional data
 Order and shipping details
 
 
-📊 Dashboard Features
+ Dashboard Features
+ 
 🔹 Key KPIs
 Total Sales
 Total Profit
 Total Orders
 Profit Margin
+
 🔹 Visualizations
+
 Sales by Region (Map / Bar Chart)
 Sales Trend Over Time (Line Chart)
 Top Products (Bar Chart)
 Category-wise Sales Distribution (Pie/Donut Chart)
 Customer Segmentation
+
 🔹 Filters & Slicers
+
 Date Range
 Region
 Category
 Customer Segment
-📈 Insights Generated
+
+# Insights
+
 Identification of high-performing regions and products
+
 Seasonal trends in sales performance
+
 Profitability analysis across categories
+
 Customer behavior patterns
 
 Open it using Power BI Desktop
@@ -57,11 +71,12 @@ Explore the dashboard using filters and slicers
 Interact with visuals to gain insights
 
 
-📌 Future Improvements
+~ Future Improvements
+
 Add forecasting models
 Integrate real-time data sources
 Enhance UI/UX with advanced visuals
 Include drill-through and tooltip pages
-👤 Author
 
+# Author
 Mant (GitHub: Mant-0957)
